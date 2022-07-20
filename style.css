@@ -40,6 +40,12 @@ h3{
     grid-auto-rows: auto;
     gap: 4rem;
 }
+.projectTwo{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-auto-rows: auto;
+    gap: 4rem;
+}
 .box{
     border: 1px solid #efefef;
     border-radius: 1rem;
